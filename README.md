@@ -44,8 +44,3 @@ To reproduce the analysis or further explore the dataset, follow these steps:
 
 The HR Analytics project showcased the utilization of SQL queries to perform in-depth analysis on a given HR dataset. By executing the provided queries, meaningful insights such as employee count, attrition count, attrition rate, active employee count, average age, attrition by gender, department-wise attrition, attrition rate by gender for different age groups, and job satisfaction rating were obtained. These insights can assist HR professionals in making informed decisions related to talent retention, identifying areas for improvement, and formulating strategies to enhance employee satisfaction and reduce attrition rates.
 
-
-
-
-
-Regenerate response
